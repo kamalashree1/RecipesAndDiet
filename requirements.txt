@@ -1,5 +1,5 @@
 pandas
 numpy
 seaborn
-
--e .
+matplotlib
+#-e .  #uncomment this when you are done adding all libraries here and ready to turn this into a package
